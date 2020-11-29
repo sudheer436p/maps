@@ -1,0 +1,38 @@
+[
+    {
+        "openDates": ["2020-03-08T05:52:51.613Z", "2020-03-12T05:52:51.613Z"],
+        "name": "Lifty HQ",
+        "address": "754 Hunter St, Newcastle West NSW 2302",
+        "position": {
+          "lat": -32.9259518,
+          "lng": 151.7615659
+        }
+      },
+      {
+        "openDates": ["2020-03-11T05:52:51.613Z"],
+        "name": "Anaconda",
+        "address": "711 Hunter St, Newcastle NSW 2302",
+        "position": {
+          "lat": -32.9261882,
+          "lng": 151.7610577
+        }
+      },
+      {
+        "openDates": ["2020-03-12T05:52:51.613Z", "2020-03-13T05:52:51.613Z"],
+        "name": "Tattoo",
+        "address": "697 Hunter St, Newcastle West NSW 2302",
+        "position": {
+          "lat": -32.9265005,
+          "lng": 151.7619549
+        }
+      },
+      {
+        "openDates": ["2020-03-13T05:52:51.613Z"],
+        "name": "Anytime Fitness",
+        "address": "496 King St, Newcastle West NSW 2302",
+        "position": {
+          "lat": -32.9269165,
+          "lng": 151.7607144
+        }
+      }
+]

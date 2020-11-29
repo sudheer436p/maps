@@ -1,6 +1,5 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Places from "./components/Places";
 import Gmap from "./components/Gmap";
 import React, { useState, Fragment } from "react";
 import LiveClock from "./components/LiveClock";

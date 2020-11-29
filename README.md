@@ -1,7 +1,7 @@
 # maps
 
-# Replace your Google Maps APi key in config/api.js file
+Replace your Google Maps APi key in config/api.js file
 
-# npm install
+npm install
 
-# npm start
+npm start
